@@ -1,0 +1,102 @@
+{
+  "artifacts": {
+    "templates/ai-usage-charter.md.template": {
+      "installed_at": "2026-05-11T21:07:04Z",
+      "sha256": "f51348e898d55370d359e12a7920451e17b820c40b648190390d5c2fb9887a6f",
+      "target": "docs/ai-usage-charter.md"
+    },
+    "templates/cheatsheet.md.template": {
+      "installed_at": "2026-05-11T21:07:04Z",
+      "sha256": "86843cdb91e42a5524b6cfa1df1ff06ce714d4a3e7dc801e10637af862bef637",
+      "target": "CHEATSHEET.md"
+    },
+    "templates/claude.md.template": {
+      "installed_at": "2026-05-11T21:07:04Z",
+      "sha256": "6e01e34f39ad107f9b5fc6e10f2f5464d62f385f57dc607882d7dc3517e4593b",
+      "target": "CLAUDE.md"
+    },
+    "templates/issue-templates/bug-report.yml.template": {
+      "installed_at": "2026-05-11T21:07:05Z",
+      "sha256": "354dd8de5184b63fa5b06f22fd4e6472f2408634ace613d246c96daef8129d9a",
+      "target": ".github/ISSUE_TEMPLATE/bug_report.yml"
+    },
+    "templates/issue-templates/feature-request.yml.template": {
+      "installed_at": "2026-05-11T21:07:04Z",
+      "sha256": "6008bb01c71efce4923ec26ab6f20a0b56f87b27464c98b9de11ce2a406d43b2",
+      "target": ".github/ISSUE_TEMPLATE/feature_request.yml"
+    },
+    "templates/llms.txt.template": {
+      "installed_at": "2026-05-11T21:07:04Z",
+      "sha256": "5ba043b5878377fe222b763e15c9c8da14a5023a37ec885a61d07313379d210d",
+      "target": "llms.txt"
+    },
+    "templates/mcp-policy.md.template": {
+      "installed_at": "2026-05-11T21:07:04Z",
+      "sha256": "1feb3bf07915ef426588a57237613f59ad6bfe4408538b53867e28243824a5e0",
+      "target": "docs/mcp-policy.md"
+    },
+    "templates/pull-request-template.md.template": {
+      "installed_at": "2026-05-11T21:07:04Z",
+      "sha256": "8857e78728cf864ff604f294d3c6f023737c7c129ef88d7f4eeb3a0f51e02475",
+      "target": ".github/pull_request_template.md"
+    },
+    "templates/security-checklist.md": {
+      "installed_at": "2026-05-11T21:07:04Z",
+      "sha256": "1d03b586de2e0696b9e59c29eb28ef4a97ebe9ced294c39eedac08a318ad577b",
+      "target": "docs/security-checklist.md"
+    },
+    "templates/snippets/audit-logging-nextjs.md": {
+      "installed_at": "2026-05-11T21:07:05Z",
+      "sha256": "923a0ef81f33194a40d502bb593b4a82c2bb3faad9a03e93feaccd73cdc9c39e",
+      "target": "docs/snippets/audit-logging-nextjs.md"
+    },
+    "templates/snippets/bdd-lite-test-naming.md": {
+      "installed_at": "2026-05-11T21:07:05Z",
+      "sha256": "9dd962a10dfdc87aeee92b262a5748228a15ba8436256d09ac3ede84072e251b",
+      "target": "docs/snippets/bdd-lite-test-naming.md"
+    },
+    "templates/snippets/ci-nightly.yml.template": {
+      "installed_at": "2026-05-11T21:07:05Z",
+      "sha256": "b9828f62cb4e66a868fba44b4d5fbc9a01428a36df8219e8e1f6e143bf9a55c6",
+      "target": ".github/workflows/nightly.yml"
+    },
+    "templates/snippets/ci-pr-fast.yml.template": {
+      "installed_at": "2026-05-11T21:07:05Z",
+      "sha256": "f645b062e95c40ec9d2c5ba8387a3e538afd0951673c70e1cd95ecac609b25c7",
+      "target": ".github/workflows/ci.yml"
+    },
+    "templates/snippets/ci-test-split-bash.sh": {
+      "installed_at": "2026-05-11T21:07:05Z",
+      "sha256": "1d20717af191a0271aa952d4dca5905c313ca47513dcab632541a5ae3ec7a4c9",
+      "target": "scripts/ci-test-split.sh"
+    },
+    "templates/snippets/middleware-nextjs.md": {
+      "installed_at": "2026-05-11T21:07:05Z",
+      "sha256": "5acb4d57ffa46ea62c8ca0f9cef1bbf11727e49a582ded7e07c62e770ea89628",
+      "target": "docs/snippets/middleware-nextjs.md"
+    },
+    "templates/snippets/rate-limiting-nextjs.md": {
+      "installed_at": "2026-05-11T21:07:05Z",
+      "sha256": "f3811920ec406cd74b73ff430b09bed750ec074c6cc1d62e93a05c63b6fc9bf6",
+      "target": "docs/snippets/rate-limiting-nextjs.md"
+    },
+    "templates/snippets/server-action-anatomy-nextjs.md": {
+      "installed_at": "2026-05-11T21:07:05Z",
+      "sha256": "2d0622797ec5c8f0ab5f226bb90f458e71ef0cabebd2f3d63512e66a5e847a8f",
+      "target": "docs/snippets/server-action-anatomy-nextjs.md"
+    },
+    "templates/specs/README.md.template": {
+      "installed_at": "2026-05-11T21:07:05Z",
+      "sha256": "eb1ed1e8c2210ae1911e9f770dcf553803825106c8b992c317f6347fbc8635b2",
+      "target": "docs/specs/README.md"
+    },
+    "templates/team-onboarding.md.template": {
+      "installed_at": "2026-05-11T21:07:04Z",
+      "sha256": "5d7b6b94821d0c0ff1d15e314ed25396aaad090c6716c50debf1b17f0c9bbd12",
+      "target": "onboarding/team-onboarding.md"
+    }
+  },
+  "installed_at": "2026-05-11T21:07:05Z",
+  "kit_version": "v0.2.0-3-gb509200",
+  "source": "https://github.com/unifylabs-dev/unify-kit"
+}

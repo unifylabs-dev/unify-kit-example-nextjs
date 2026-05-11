@@ -1,0 +1,22 @@
+# Config used by `init-project.sh --config sandbox-config.yml` when this repo
+# was bootstrapped from `unifylabs-dev/unify-kit` v1.0.0. Kept in-repo so
+# v1.1's examples/ sanitization can lift it as-is.
+
+PROJECT_NAME: unify-kit-example-nextjs
+ONE_LINE_DESCRIPTION: Synthetic Next.js sandbox dogfooding unify-kit v1.0.0.
+STACK: Next.js 14 + TypeScript + Tailwind
+REPO_URL: https://github.com/unifylabs-dev/unify-kit-example-nextjs
+TEAM_NAME: Unify Labs
+LANG: TypeScript
+LANG_VERSION: "5+"
+FRAMEWORK: Next.js 14 (App Router)
+DB: ""
+KEY_LIBS: react, next, tailwindcss
+ROOT: .
+BUILD_CMD: npm run build
+TEST_CI_CMD: npm test
+TEST_FULL_CMD: npm test
+LINT_CMD: npm run lint
+TYPECHECK_CMD: npx tsc --noEmit
+DATA_MODEL_PATH: ""
+TEST_E2E_DIR: tests/e2e
